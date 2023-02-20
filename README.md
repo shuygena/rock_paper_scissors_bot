@@ -9,7 +9,7 @@
 ## :toolbox: Requirements:  
 This project was done with python-3.8.10 and aiogram-2.24  
 
-## :link: Download & Compile
+## :link: Download & Run
 Clone repository:
 ```
 git clone https://github.com/shuygena/rock_paper_scissors_bot rock_paper_scissors_bot
